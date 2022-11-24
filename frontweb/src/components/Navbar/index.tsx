@@ -1,5 +1,5 @@
-import './styles.css';
 import 'bootstrap/js/src/collapse.js';
+import './styles.css';
 
 const Navbar = () => {
   return (
