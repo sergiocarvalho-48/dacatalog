@@ -35,7 +35,7 @@ const Catalog = () => {
 
   return (
     <div className="container my-4 catalog-container">
-      <div className="row catalog-tittle-container">
+      <div className="catalog-tittle-container">
         <h1>Catálogo de produtos</h1>
       </div>
       <div className="row">

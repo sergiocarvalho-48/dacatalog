@@ -1,9 +1,10 @@
 import PrivateRoute from 'components/PrivateRoute';
 import { Switch } from 'react-router-dom';
 import Navbar from './Navbar';
+import Users from './User';
 
 import './styles.css';
-import Users from './User';
+
 
 const Admin = () => {
   return (
