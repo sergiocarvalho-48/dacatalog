@@ -39,7 +39,7 @@ const ProductFilter = () => {
           <input
             {...register('name')}
             type="text"
-            className="form-control base-input"
+            className="form-control"
             placeholder="Nome do produto"
             name="name"
           />
